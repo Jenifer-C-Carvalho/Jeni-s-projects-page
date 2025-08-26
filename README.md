@@ -16,9 +16,9 @@ Exclusive and free program, promoted by Rocketseat for teaching WEB technologies
 
 This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 - Figma
 
 ## 💻 Project
