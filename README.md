@@ -1,4 +1,4 @@
-<h1 align="center"> DeviLinks Courses </h1>
+<h1 align="center"> DevLinks Courses </h1>
 
 <p align="center">
 Exclusive and free program, promoted by Rocketseat for teaching WEB technologies. <br/>
