@@ -6,8 +6,8 @@ function toggleMode() {
   const img = document.querySelector("img")
 
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "/IMG/photo_light.png")
+    img.setAttribute("src", "../IMG/photo_light.png")
   } else {
-    img.setAttribute("src", "/IMG/photo_dark.png")
+    img.setAttribute("src", "../IMG/photo_dark.png")
   }
 }
