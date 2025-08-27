@@ -16,7 +16,7 @@
   --button-color: rgba(255, 255, 255, 0.1);
   --button-color-hover: rgba(255, 255, 255, 0.3);
   --social-icons-color: rgba(255, 255, 255, 0.2);
-  --mode-button: url("ASSETS/sun.svg");
+  --mode-button: url("ASSETS/moon.svg");
 }
 
 /* Stylling the light mode */
